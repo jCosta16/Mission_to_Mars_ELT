@@ -116,8 +116,5 @@ def scrape():
     }
  
 
-    # full_data1 = [
-    #    mars_news, featured_img,mars_weather, mars_html_table, hemisphere_image_urls
-    # ]
 
     return mars
