@@ -4,13 +4,13 @@ Web Scraping - Mission to Mars
 For this project Ibuild a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
 
 ## Applied Technologies
-Python
-Flask
-HTML/CSS
-BeautifulSoup
-scikit-learn
-keras
-Matplotlib
+- Python
+- Flask
+- HTML/CSS
+- BeautifulSoup
+- scikit-learn
+- keras
+- Matplotlib
 
 ## Some Visualizations
 
