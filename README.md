@@ -10,7 +10,6 @@ For this project Ibuild a web application that scrapes various websites for data
 - BeautifulSoup
 - scikit-learn
 - keras
-- Matplotlib
 
 ## Some Visualizations
 
