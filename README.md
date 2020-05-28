@@ -1,7 +1,7 @@
 # Mission to Mars
 Web Scraping - Mission to Mars
 
-For this project I build a web application that scrapes various ([NASA Mars News Site](https://mars.nasa.gov/news/), [JPL Mars Space Images](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars) ) websites for data related to the Mission to Mars and displays the information in a single HTML page.
+For this project I build a web application that scrapes various ([NASA Mars News Site](https://mars.nasa.gov/news/), [JPL Mars Space Images](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars), [Mars Weather](https://twitter.com/marswxreport?lang=en)) websites for data related to the Mission to Mars and displays the information in a single HTML page.
 
 
 ## Applied Technologies
