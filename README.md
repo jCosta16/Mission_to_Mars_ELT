@@ -14,8 +14,8 @@ For this project I build a web application that scrapes various websites for dat
 
 ## Steps
 * Step 1 - Scraping
-#### Wesbsites scraped
-([NASA Mars News Site](https://mars.nasa.gov/news/), [JPL Mars Space Images](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars), [Mars Weather](https://twitter.com/marswxreport?lang=en))
+  - Wesbsites scraped :
+  ([NASA Mars News Site](https://mars.nasa.gov/news/), [JPL Mars Space Images](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars), [Mars Weather](https://twitter.com/marswxreport?lang=en))
 
 ## Some Visualizations
 
