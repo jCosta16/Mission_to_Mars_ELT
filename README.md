@@ -24,10 +24,6 @@ For this project I build a web application that scrapes various websites for dat
 * Step 2 - MongoDB and Flask Application
   - Used MongoDB with Flask to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
-*
-
-
-
 
 ## Some Visualizations
 
