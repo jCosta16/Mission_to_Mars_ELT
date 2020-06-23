@@ -14,12 +14,12 @@ For this project I build a web application that scrapes various websites for dat
 
 ## Steps
 * Step 1 - Scraping
-  - Wesbsites scraped :
-  [NASA Mars News Site](https://mars.nasa.gov/news/)
-  [JPL Mars Space Images](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)
-  [Mars Weather](https://twitter.com/marswxreport?lang=en)
-  [Mars Facts](https://space-facts.com/mars/)
-  [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
+  - Wesbsites scraped :<br>
+  [NASA Mars News Site](https://mars.nasa.gov/news/)<br>
+  [JPL Mars Space Images](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)<br>
+  [Mars Weather](https://twitter.com/marswxreport?lang=en)<br>
+  [Mars Facts](https://space-facts.com/mars/)<br>
+  [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)<br>
 
 * Step 2 - MongoDB and Flask Application
   - Used MongoDB with Flask to create a new HTML page that displays all of the information that was scraped from the URLs above.
