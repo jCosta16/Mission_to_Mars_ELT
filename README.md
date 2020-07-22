@@ -9,8 +9,6 @@ For this project I build a web application that scrapes various websites for dat
 - Flask
 - HTML/CSS
 - BeautifulSoup
-- scikit-learn
-- keras
 
 ## Steps
 * Step 1 - Scraping
